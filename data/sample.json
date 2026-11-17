@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": "r1",
+      "lab": "a",
+      "material": "ref-v1",
+      "measurement": 10.2
+    },
+    {
+      "id": "r2",
+      "lab": "a",
+      "material": "ref-v1",
+      "measurement": 9.8
+    },
+    {
+      "id": "r3",
+      "lab": "b",
+      "material": "ref-v1",
+      "measurement": 11.1
+    },
+    {
+      "id": "r4",
+      "lab": "b",
+      "material": "ref-v1",
+      "measurement": 10.9
+    }
+  ]
+}
